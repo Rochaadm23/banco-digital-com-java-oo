@@ -2,11 +2,14 @@ package com.dio.banco;
 
 public interface IConta {
 
-    public void sacar(double valor);
+    void sacar(double valor);
 
-    public void depositar(double valor);
+    void depositar(double valor);
 
-    public void tranferir(double valor, Conta contaDestino);
+    void tranferir(double valor, Conta contaDestino);
+
+    void imprimirExtrato();
+
 
 
 }
