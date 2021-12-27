@@ -1,2 +1,12 @@
-package com.dio.banco;public interface IConta {
+package com.dio.banco;
+
+public interface IConta {
+
+    public void sacar(double valor);
+
+    public void depositar(double valor);
+
+    public void tranferir(double valor, Conta contaDestino);
+
+
 }

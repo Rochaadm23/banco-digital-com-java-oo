@@ -7,15 +7,23 @@
     <list default="true" id="7bb4d2ef-f899-4573-9c90-21ed3a9ef98a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/banco/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/banco/Banco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/banco/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/banco/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/banco/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/banco/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/banco/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/banco/ContaCorrente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/banco/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/banco/ContaPoupanca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/banco/IConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/banco/IConta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,11 +62,22 @@
       <option name="presentableId" value="Default" />
       <updated>1640634111755</updated>
       <workItem from="1640634113903" duration="94000" />
-      <workItem from="1640635311387" duration="1141000" />
+      <workItem from="1640635311387" duration="5026000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
