@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bb4d2ef-f899-4573-9c90-21ed3a9ef98a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/banco/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/banco-digital-com-java-oo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/banco-digital-com-java-oo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/banco/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/banco/Banco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/banco/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/banco/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/banco/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/banco/ContaCorrente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/banco/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/banco/ContaPoupanca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/banco/IConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/banco/IConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/banco/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/banco/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/banco/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dio/banco/Conta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/banco/ContaCorrente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dio/banco/ContaCorrente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/banco/ContaPoupanca.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dio/banco/ContaPoupanca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/banco/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dio/banco/Principal.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +58,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dio.banco.Principal" />
       <module name="banco-digital-com-java-oo" />
@@ -68,9 +72,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ContaCorrente,Extrato and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="banco-digital-com-java-oo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dio.banco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dio.banco" />
+      <option name="MAIN_CLASS_NAME" value="com.dio.banco.Conta" />
+      <option name="METHOD_NAME" value="Extrato" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="com.dio.banco.ContaCorrente,Extrato" />
+        <pattern testClass="com.dio.banco.ContaPoupanca,Extrato" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContaCorrente.Extrato" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="banco-digital-com-java-oo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dio.banco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dio.banco" />
+      <option name="MAIN_CLASS_NAME" value="com.dio.banco.ContaCorrente" />
+      <option name="METHOD_NAME" value="Extrato" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Principal" />
+        <item itemvalue="JUnit.ContaCorrente.Extrato" />
+        <item itemvalue="JUnit.ContaCorrente,Extrato and 1 more" />
       </list>
     </recent_temporary>
   </component>
@@ -83,7 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1640634111755</updated>
       <workItem from="1640634113903" duration="94000" />
-      <workItem from="1640635311387" duration="8714000" />
+      <workItem from="1640635311387" duration="14295000" />
     </task>
     <servers />
   </component>
